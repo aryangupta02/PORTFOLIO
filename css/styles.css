@@ -3927,11 +3927,11 @@ td:last-child {
 }
 
 .s-about__list span {
-    display    : block;
-    font-size  : var(--text-sm);
+    display: block;
+    font-size: var(--text-sm);
     font-weight: 300;
     line-height: 1.2;
-    color      : var(--color-text-light) !important;
+    color: #c93f1d !important;
 }
 
 /* ------------------------------------------------------------------- 
